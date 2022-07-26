@@ -4,7 +4,7 @@
 }
 
 .container {
-  background-color: #ffcb2d;
+  background-color: #34695d;
   width: 100%;
   min-height: 100vh;
   display: flex;
@@ -13,13 +13,13 @@
 }
 
 .app-wrapper {
-  background-color: rgb(144, 102, 23);
+  background-color: rgb(136, 138, 133);
   min-width: 450px;
   min-height: 650px;
   padding: 30px;
   box-sizing: border-box;
   border-radius: 10px;
-  box-shadow: 3px 6px 40px rgb(106, 69, 14);
+  box-shadow: 3px 6px 40px rgb(136, 138, 133);
   margin-bottom: 10px;
     border: 2px solid rgb(0, 0, 0);
 
@@ -37,8 +37,8 @@
   padding: 15px;
   margin-right: 25px;
   font-size: 20px;
-  color: #ccc;
-  background-color: #ffcb2d;
+  color: rgb(0, 0, 0);
+  background-color: #ccc;
   border: 2px solid rgb(0, 0, 0);
   border-radius: 10px;
 }
@@ -50,7 +50,7 @@
   border-radius: 10px;
     border: 2px solid rgb(0, 0, 0);
 
-  background-color: #ffcb2d;
+  background-color: #ccc;
   cursor: pointer;
 }
 
@@ -97,7 +97,7 @@
 
 .list {
   width: 220px;
-  background-color: #ffcb2d;
+  background-color: #ccc;
   border: none;
   color: rgb(0, 0, 0);
   font-size: 20px;
