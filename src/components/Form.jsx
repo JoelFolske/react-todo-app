@@ -40,6 +40,7 @@ const Form = ({ input, setInput, todos, setTodos, editTodo, setEditTodo }) => {
         value={input}
         required
         onChange={onInputChange}
+        
       />
       <button className="button-add" type="submit">
         {editTodo ? "OK" : "Add"}
